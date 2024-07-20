@@ -1,0 +1,16 @@
+# React Native
+node_modules/
+*.log
+*.swp
+*.swo
+*.DS_Store
+
+# Xcode
+ios/Pods/
+ios/build/
+ios/DerivedData/
+
+# Android
+android/.gradle/
+android/app/build/
+android/local.properties
